@@ -1,5 +1,8 @@
 #!/usr/bin/perl -w
-#http://pastebin.com/xXhPyZuQ
+#This program is licensed under the BSD 2-Clause License a copy of which
+#is included with this program.
+# (c) Ian Malone 2012
+
 use Image::ExifTool qw(ImageInfo);
 use MIME::Base64;
 use File::Basename qw(basename);
